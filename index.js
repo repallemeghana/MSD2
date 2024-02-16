@@ -1,6 +1,6 @@
 const express=require('express');
 
-const users=require('./Users');
+const users=require('./users');
 
 const path=require('path');
 
